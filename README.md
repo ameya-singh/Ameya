@@ -1,4 +1,3 @@
-# Ameya
 Hi, I’m Ameya Singh Rathore
 I’m interested in Machine learning and problem solving
 I’m currently learning Machine learning and Deep learning
